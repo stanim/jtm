@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobs That Matter</title>
+    <link>/</link>
+    <description>Recent content on Jobs That Matter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>n-nl</language>
+    <lastBuildDate>Thu, 10 May 2018 18:53:00 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Page</title>
+      <link>/pages/my-first-page/</link>
+      <pubDate>Thu, 10 May 2018 18:53:00 +0200</pubDate>
+      
+      <guid>/pages/my-first-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Thu, 10 May 2018 13:24:06 +0200</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description> hello dfad dsfa  </description>
+    </item>
+    
+  </channel>
+</rss>
