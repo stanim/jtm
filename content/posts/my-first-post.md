@@ -1,6 +1,8 @@
 ---
 title: My First Post
 date: 2018-05-10 13:24:06 +0200
+type: pages
+draft: true
 
 ---
 1. hello
